@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html{
+    color:white;
+}
+
+body{
+    background-image:url('../Images/codingimage.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#navbar{
+    display: flex;
+    justify-content:flex-start;
+    background-color:black;
+}
+
+#navbar a{
+    text-decoration:none;
+    color:white;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:24px;
+    padding: 3.00vh 1.35vw;
+}
+
+#navbar a:hover{
+    background-color: #201548;
+    
+}
+
+img{
+    position:relative;
+    left:1350px;
+    top:-96px;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+}
+
+h3{
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+}
+
+a{
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+    text-decoration:none;
+    color:white;
+}
+
+#image1{
+    position:relative;
+    left:200px;
+    top:75px;
+}
+
+#image2{
+    position:relative;
+    left:125px;
+    top:75px;
+}
+
+#image3{
+    position:relative;
+    left:175px;
+    top:75px;
+}
+
+#image4{
+    position:relative;
+    left:400px;
+    top:75px;
+}
+
+#image5{
+    position:relative;
+
+    top:75px;
+}
+
+#image6{
+    position:relative;
+    left:625px;
+    top:75px;
+}
+
+#image7{
+    position:relative;
+    left:300px;
+    top:75px;
+}
+
+#image8{
+    position:relative;
+    left:400px;
+    top:75px;
+}
+
+#image9{
+    position:relative;
+    left:350px;
+    top:75px;
+}
+
+#image10{
+    position:relative;
+    left:585px;
+    top:75px;
+}
+
+#image11{
+    position:relative;
+    left:635px;
+    top:75px;
+}
+
+#image12{
+    position:relative;
+    left:575px;
+    top:75px;
+}
+
+#image13{
+    position:relative;
+    left:500px;
+    top:75px;
+}
+
+#image14{
+    position:relative;
+    left:635px;
+    top:75px;
+}
+
+#image15{
+    position:relative;
+    left:650px;
+    top:75px;
+}
+
+#image16{
+    position:relative;
+    left:635px;
+    top:75px;
+}
+
+.gitlink{
+    position:relative;
+    left:650px;
+}
